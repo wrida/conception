@@ -1,0 +1,24 @@
+As a user I need to:
+   -register
+   -login
+   -manage own post
+   -like a post
+   -consult posts reserved for sale
+
+
+As an admin I need to:
+   -ban post
+   -ban user
+   -Validate posts
+
+
+As a repairer I need to:
+   -register
+   -consult posts
+   -login
+    
+
+As a society I need to:
+   -register
+   -login
+   -consult posts
